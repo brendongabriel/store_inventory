@@ -1,7 +1,3 @@
-Aqui está o relatório formatado em Markdown:
-
----
-
 # Relatório do Código de Simulação da Loja de Informática
 
 ## 1. Objetivo do Código
